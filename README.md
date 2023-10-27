@@ -6,9 +6,6 @@
 
 CRUD simples para cursos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteue)](https://www.linkedin.com/in/guilherme-alves-1402i/)
-
-
 ## Como usar
 
 Utilize algum software como o Postman para enviar solicitações HTTP para a API e receber as respostas correspondentes.
@@ -16,3 +13,4 @@ Utilize algum software como o Postman para enviar solicitações HTTP para a API
 ## By
 `Guilherme Alves`
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteue)](https://www.linkedin.com/in/guilherme-alves-1402i/)
